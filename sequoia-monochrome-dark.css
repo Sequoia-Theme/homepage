@@ -1,0 +1,10 @@
+/* Sequoia Sequoia Monochrome Dark for Homepage (gethomepage) custom CSS */
+:root {
+  --color-background: #0f1014;
+  --color-background-highlight: #111216;
+  --color-foreground: #868690;
+  --color-muted: #575861;
+  --color-primary: #b6bac8;
+  --color-secondary: #999eb2;
+  --color-border: #57586133;
+}

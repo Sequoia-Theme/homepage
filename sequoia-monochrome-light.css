@@ -1,0 +1,10 @@
+/* Sequoia Sequoia Monochrome Light for Homepage (gethomepage) custom CSS */
+:root {
+  --color-background: #edeef2;
+  --color-background-highlight: #e2e3e8;
+  --color-foreground: #282930;
+  --color-muted: #42434e;
+  --color-primary: #454752;
+  --color-secondary: #525666;
+  --color-border: #42434e33;
+}

@@ -1,0 +1,10 @@
+/* Sequoia Sequoia Moonlight Light for Homepage (gethomepage) custom CSS */
+:root {
+  --color-background: #edeef2;
+  --color-background-highlight: #e2e3e8;
+  --color-foreground: #282930;
+  --color-muted: #42434e;
+  --color-primary: #d9884a;
+  --color-secondary: #c94da8;
+  --color-border: #42434e33;
+}
